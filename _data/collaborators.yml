@@ -1,0 +1,24 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Timothy C. Beers
+  photo: Tim_Beers.jpg
+  info:
+  email: Timothy.C.Beers.5@nd.edu
+  number_educ: 2
+  education1: Department of Physics, University of Notre Dame
+  education2: The Joint Institute for Nuclear Astrophysics - Center for the Evolution of the Elements (JINA-CEE)
+  
+- name: Vinicius M. Placco
+  photo:
+  info: <http://vmplacco.github.io/>
+  email: vinicius.placco@noirlab.edu
+  number_educ: 1
+  education1: NSF’s Optical-Infrared Astronomy Research Laboratory

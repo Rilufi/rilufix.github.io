@@ -1,0 +1,64 @@
+- name: Silvia Rossi
+  photo: Silvia_Rossi.jpeg
+  info: Associate Professor at USP
+  email: silvia.rossi@iag.usp.br
+  number_educ: 3
+  education1: <a href="https://orcid.org/0000-0001-7479-5756">ORCID</a>
+  education2: <a href="https://publons.com/researcher/2726643/silvia-c-f-rossi/">Publons</a>
+  education3: <a href="https://www.scopus.com/authid/detail.uri?authorId=26427805800">Scopus</a>
+  education4: 
+  education5:
+
+- name: Angeles Pérez-Villegas
+  photo: Angeles_Perez.jpeg
+  info: Associate Professor at UNAM
+  email: angelespv@gmail.com
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-5974-3998">ORCID</a>
+  education2: 
+  education3: 
+
+- name: Rafael M. Santucci
+  photo: rafael.png
+  info: Adjunct Professor at UFG
+  email: rafaelsantucci@ufg.br
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-7529-1442">ORCID</a>
+  education2: 
+
+- name: Hélio D. Perottoni
+  photo: Hélio.jpg
+  info: Postdoc at USP
+  email: hperottoni@gmail.com
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-0537-4146">ORCID</a>
+  education2: 
+  
+- name: Guilherme Limberg
+  photo: Gui.jpg
+  info: PhD student at USP
+  email: guilherme.limberg@usp.br
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-9269-8287">ORCID</a>
+  education2: 
+  education3:
+  
+- name: Fabricia Barbosa
+  photo: Fabricia.jpg
+  info: PhD student at USP
+  email: fabriciaob@usp.br
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Lais Borbolato
+  photo: Lais.jpg
+  info: PhD student at USP
+  email: laisborbolato@usp.br
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:

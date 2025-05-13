@@ -1,0 +1,109 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Yuri Abuchaim
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+
+- name: Fernanda Nogueira
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+
+- name: Camilo Muñoz Peña
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  
+- name: Henrique Marques Reggiane
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  
+- name: Viviane Salvador Alves
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  
+- name: Tiago Mendes de Almeida
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  
+- name: Monique Alvez Cruz
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  
+- name: Dinah Moreira Allen
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+  
+  
+- name: Geraldo Gonçalves
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+  
+  
+- name: Vinicius Branco
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+  
+  
+- name: Willian Alves Pinto dos Santos
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+  
+  
+- name: Priscilla Roberta Tavares Leite Camargo
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  education2:

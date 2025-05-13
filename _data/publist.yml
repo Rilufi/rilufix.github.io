@@ -1,0 +1,49 @@
+- title: "Dynamically Tagged Groups of Very Metal-poor Halo Stars from the HK and Hamburg/ESO Surveys"
+  image: main_grupinhos.png
+  description: Analyzing dynamical properties of very metal-poor halo stars we were able to identify Dynamically Tagged Groups (DTGs) via clustering algorithm, associating with previously known prominent substructures as well new DTGs that can help unveil the history of formation of our Galaxy.
+  authors: Guilherme Limberg, Silvia Rossi, Timothy C. Beers, Hélio D. Perotonni, Angeles Pérez-Villegas, Rafael M. Santucci, Yuri Abuchaim, et al.
+  link:
+    url: https://arxiv.org/abs/2011.08305
+    display:  arXiv:2011.08305
+  highlight: 1
+  news2:
+
+- title: "Targeting Bright Metal-poor Stars in the Disk and Halo Systems of the Galaxy"
+  image: paper_gui.png
+  description: We present the results of spectroscopic follow-up for 1897 low-metallicity star candidates, selected from the Best & Brightest (B&B) Survey, carried out with the GMOS-N/S (Gemini North/South telescopes) and Goodman (SOAR Telescope) spectrographs.
+  authors: Guilherme Limberg, Rafael M. Santucci, Silvia Rossi, Derek Shank, Vinicius M. Placco, Timothy C. Beers, Kevin C. Schlaufman, et al.
+  link:
+    url: https://arxiv.org/abs/2103.07621
+    display:  arXiv:2103.07621
+  highlight: 1
+  news2:
+
+- title: "Searching for Extragalactic Exoplanetary Systems: the Curious Case of BD+20 2457"
+  image: paper_helio.png
+  description:  In this Letter, we investigate the origin of known planet-host stars combining data from the NASA Exoplanet Archive with Gaia EDR3 and large-scale spectroscopic surveys. 
+  authors: Helio D. Perottoni, Joao A. S. Amarante, Guilherme Limberg, H. J. Rocha-Pinto, Silvia Rossi, Friedrich Anders, Lais Borbolato Soares
+  link:
+    url: https://arxiv.org/abs/2104.08306
+    display:  arXiv:2104.08306
+  highlight: 1
+  news2:
+
+- title: "Abundance Patterns of α and Neutron-capture Elements in the Helmi Stream"
+  image: letter_gui.jpeg
+  description:  We identify new members of the Helmi stream in the combined Gaia eDR3 + GALAH DR3 and demonstrate that their chemical composition is similar to dwarf satellite galaxies of the Milky Way, providing evidence that his substructure is the debris of a system of similar kind. 
+  authors:   Guilherme Limberg, Rafael M. Santucci, Silvia Rossi, Anna B. A. Queiroz, Cristina Chiappini, Stefano O. Souza, Hélio D. Perottoni, Angeles Pérez-Villegas, Fabrícia O. Barbosa
+  link:
+    url: https://arxiv.org/abs/2105.05958
+    display:  arXiv:2105.05958
+  highlight: 1
+  news2:
+
+- title: "The Chemodynamical Nature of the Triangulum-Andromeda Overdensity"
+  image: paper_yuri.png
+  description:  In this work, we carried out a chemodynamical investigation of the largest homogenous sample of Triangulum-Andromeda Overdensity (TriAnd) member stars currently available. We conclude that the genuine TriAnd stars have kinematics and chemistry consistent with the Milky Way’s outer disk, while the presence of some halo (accreted) interlopers explain the historical dispute regarding this overdensity’s true origin. 
+  authors: Yuri Abuchaim, Helio D. Perottoni, Silvia Rossi, Guilherme Limberg, Angeles Pérez-Villegas Rafael M. Santucci, et al.
+  link:
+    url: https://arxiv.org/abs/2304.00156
+    display:  arXiv:2304.00156
+  highlight: 1
+  news2:
