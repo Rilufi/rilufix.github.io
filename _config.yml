@@ -1,1 +1,50 @@
-theme: jekyll-theme-minimal
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Galactic Archaelogy
+email: yuri.abuchaim@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Galactic Archaelogy Research Group Website at the Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG/USP). Our aim is to explore and understand the history of formation of our Galaxy.
+  From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way.
+baseurl:
+url: "https://rilufi.github.io"
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-sitemap
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+# Google Analytics
+google_analytics: G-765SR6D2B1
